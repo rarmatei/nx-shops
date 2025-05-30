@@ -7,9 +7,9 @@
       "options": {
         "cacheableOperations": ["build", "lint", "test", "e2e"],
         "parallel": 1,
-        "accessToken": "ODhhNzU1NzgtY2FlMS00NDA2LTlhZWItYzcxNDJiZDllYjAyfHJlYWQtd3JpdGU=",
+        "accessToken": "ZWY1NzYzZDEtNWNhNS00NWRiLTljNmQtOGI3NzRlZGU3MzdhfHJlYWQtd3JpdGU=",
         "url": "https://staging.nx.app",
-        "nxCloudUrl": "https://staging.nx.app"
+        "nxCloudUrl": "https://crezco.gc.ent.nx.app"
       }
     }
   },
